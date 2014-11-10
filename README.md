@@ -1,5 +1,6 @@
 Docker image for transmission-daemon
-# Works well with
+
+This image works well with the below related images.
 - [dylanlindgren/docker-couchpotato](https://github.com/dylanlindgren/docker-couchpotato)
 - [dylanlindgren/docker-sickbeard](https://github.com/dylanlindgren/docker-sickbeard)
 
