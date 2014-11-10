@@ -1,5 +1,7 @@
 Docker image for transmission-daemon
 
+![Docker + Transmission](https://cloud.githubusercontent.com/assets/6241518/4986032/aceba002-6934-11e4-9058-f1364108bdbc.jpg)
+
 This image works well with the below related images.
 - [dylanlindgren/docker-couchpotato](https://github.com/dylanlindgren/docker-couchpotato)
 - [dylanlindgren/docker-sickbeard](https://github.com/dylanlindgren/docker-sickbeard)
